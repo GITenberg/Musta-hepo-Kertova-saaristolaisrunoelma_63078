@@ -1,0 +1,36 @@
+_repo: Musta-hepo-Kertova-saaristolaisrunoelma_63078
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larin-Kyösti
+    aliases:
+    - Kyösti, Larin
+    - Larsson, Karl Gustaf
+    - Larin-Kyosti
+    - Larson, Karl Gustaf
+    - Larson, Gösta
+    - Larson, Kaarlo Kyösti
+    - Larson, Gosta
+    - Larson, Kyösti
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '45809'
+    url: http://www.gutenberg.org/2009/agents/45809
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+    - https://en.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+description: ''
+gutenberg_issued: '2020-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63078'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Musta hepo
+
+  Kertova saaristolaisrunoelma'
+url: http://www.gutenberg.org/ebooks/63078
